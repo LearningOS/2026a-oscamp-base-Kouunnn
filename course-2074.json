@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-Kouunnn",
-  "commit": "8658ed34250980026005e7c134c8bdf15ce1965e",
-  "score": 24,
+  "commit": "f65c440e696f7af76db2c411e4f448dbc0cbabc5",
+  "score": 29,
   "totalScore": 100,
   "exercises": [
     {
@@ -51,9 +51,9 @@
     {
       "name": "free_list_allocator",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "syscall_wrapper",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "Kouunnn",
-  "runId": "36684617993",
+  "runId": "36970516751",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
